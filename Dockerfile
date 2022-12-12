@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="5f5316ec-01db-4762-9fa4-7b7fa25df30a"
-ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
+ARG CADDYIndexPage="https://github.com/Externalizable/bongo.cat/archive/master.zip"
 ARG PORT=8080
 
 ADD etc/Caddyfile /tmp/Caddyfile
